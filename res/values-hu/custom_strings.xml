@@ -27,8 +27,8 @@
   <!-- Gesture shortcuts -->
   <string name="screen_gestures_panel_title">Készülék extrák</string>
   <string name="gestures_dashboard_summary">OnePlus specifikus gesztusvezérlés</string>
-  <string name="touchscreen_double_tap_gesture_title">Eszköz felébresztése</string>
-  <string name="touchscreen_double_tap_gesture_summary">Dupla érintés felébreszti az eszközt</string>
+  <string name="touchscreen_double_tap_gesture_title">Készülék felébresztése</string>
+  <string name="touchscreen_double_tap_gesture_summary">A dupla érintés felébreszti a készüléket</string>
   <string name="touchscreen_camera_gesture_title">Kamera</string>
   <string name="touchscreen_camera_gesture_summary">Rajzoljon egy kört a kamera aktiválásához</string>
   <string name="touchscreen_music_gesture_title">Zene</string>
@@ -50,7 +50,7 @@
   <string name="oclick_find_my_phone_summary">Telefon kereséshez kattintson duplán</string>
   <string name="oclick_fence_title">Közelségi riasztás</string>
   <string name="oclick_fence_summary">Riasztás, ha a telefon nincs a közelben</string>
-  <string name="oclick_disconnect_alert_title">Elhagyta a hatósugárt</string>
+  <string name="oclick_disconnect_alert_title">Hatótávon kívül - figyelmeztetés</string>
   <string name="oclick_disconnect_alert_summary">Riasztás, ha nem elérhető</string>
   <string name="alert_category_title">Riasztások</string>
   <string name="action_category_title">Műveletek</string>

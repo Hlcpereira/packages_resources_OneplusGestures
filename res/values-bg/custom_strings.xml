@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Разширени настройки</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">Активирай O-Touch</string>
   <string name="touchpad_enable_summary">Заден тъчпад за навигация на телефона</string>
@@ -24,6 +25,10 @@
   <string name="touchpad_double_tap_title">Почукайте два пъти за да снимате</string>
   <string name="touchpad_double_tap_summary">Докато сте в камера почукайте два пъти за да направите снимка</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Екстри на устройството</string>
+  <string name="gestures_dashboard_summary">Жестове, специфични за OnePlus устройствата</string>
+  <string name="touchscreen_double_tap_gesture_title">Събуди устройството</string>
+  <string name="touchscreen_double_tap_gesture_summary">Двойно чукване за отключване на устройството</string>
   <string name="touchscreen_camera_gesture_title">Камера</string>
   <string name="touchscreen_camera_gesture_summary">Начертайте кръг за да включите камерата</string>
   <string name="touchscreen_music_gesture_title">Музика</string>
@@ -56,8 +61,12 @@
   <string name="oclick_notification_title_disconnected">O-Click е прекъснат</string>
   <string name="oclick_notification_content_disconnected">Натиснете O-Click бутона за повторно свързване</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Екстри</string>
+  <string name="haptic_feedback">Вибрация при докосване (обратна връзка)</string>
+  <string name="haptic_feedback_summary">Вибриране при засичане на жест</string>
   <!-- Button settings -->
   <string name="button_panel_title">Допълнителни бутони</string>
+  <string name="buttons_dashboard_summary">Настройки на Превключвателя за уведомления</string>
   <!-- Notification slider -->
   <string name="notification_slider_selection_dialog_title">Действие</string>
   <string name="notification_slider_top_position">Най-горна позиция</string>
@@ -65,6 +74,6 @@
   <string name="notification_slider_bottom_position">Най-ниска позиция</string>
   <string name="notification_slider_mode_total_silence">Пълна тишина</string>
   <string name="notification_slider_mode_alarms_only">Само будилници</string>
-  <string name="notification_slider_mode_priority_only">Само с приоритед</string>
+  <string name="notification_slider_mode_priority_only">Само с приоритет</string>
   <string name="notification_slider_mode_none">Без</string>
 </resources>
