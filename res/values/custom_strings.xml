@@ -1,92 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2013-2014 The CyanogenMod Project
+<resources>
+    <!-- General -->
+    <string name="advanced_settings">OnePlus Settings</string>
+    <string name="advanced_settings_summary">Custom settings for your device</string>
+    <string name="category_gestures_title">Device gestures</string>
+    <string name="dlg_ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="reset_message">Reset all entries to default?</string>
+    <string name="enable_gestures_title">Enable gestures</string>
+    <string name="fp_gesture_title">Fingerprint scanner gestures</string>
+    
+    <!-- Buttons -->
+    <string name="buttons_title">Buttons</string>
+    <string name="button_swap_title">Swap buttons</string>
+    <string name="button_swap_summary">Swap the order of recents and back buttons</string>
 
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
+    <!-- Slider -->
+    <string name="category_slider">Notification slider</string>
+    <string name="slider_mode_off">Off</string>
+    <string name="slider_mode_vibrate">Vibrate</string>
+    <string name="slider_mode_silent">Silent</string>
+    <string name="slider_mode_priority">Priority only</string>
+    <string name="slider_mode_alarm">Alarms only</string>
+    <string name="slider_mode_zen">Do not disturb</string>
+    <string name="slider_mode_title_top">Top position</string>
+    <string name="slider_mode_title_center">Center position</string>
+    <string name="slider_mode_title_bottom">Bottom position</string>
+    <string name="slider_mode_dnd">Total silence</string>
+    
+    <!-- Graphics -->
+    <string name="panel_category_title">Panel modes</string>
+    <string name="panel_category_summary">Modes for panel color correction</string>
+    <string name="off_mode_title">Off</string>
+    <string name="tile_panel_mode">Panel modes</string>
+    <string name="tile_hbm_mode">High brightness modes</string>
+    <string name="graphics_title">Graphics</string>
+    <string name="srgb_mode_title">sRGB mode</string>
+    <string name="hbm_mode_title">High brightness mode</string>
+    <string name="adaptive_mode_title">Adaptive mode</string>
+    <string name="oneplus_mode_title">OnePlus mode</string>
+    <string name="night_mode_title">Night mode</string>
+    <string name="dci_mode_title">Wide color gamut mode</string>
+    <string name="dci_mode_summary" translatable="false"></string>
+    <string name="srgb_mode_summary" translatable="false"></string>
+    <string name="hbm_mode_summary" translatable="false"></string>
+    
+    <!-- USB-OTG -->
+    <string name="otg_switch_summary">Enable/Disable USB-OTG support</string>
+    <string name="otg_switch_title">USB-OTG support</string>
+    
+    <!-- Doze -->
+    <string name="doze_category_title">Ambient display</string>
+    <string name="doze_category_summary">Wake screen when you receive notifications</string>
+    <string name="wave_check_summary">Pulse notifications on hand wave</string>
+    <string name="wave_check_title">Hand wave</string>
+    <string name="tilt_check_summary">Pulse notifications when device is picked up</string>
+    <string name="tilt_check_title">Pick up</string>
+    <string name="pocket_check_summary">Pulse notifications on removal from pocket</string>
+    <string name="pocket_check_title">Pocket</string>
+    <string name="ambient_display_enable">Ambient display must be enabled in display settings</string>
 
-          http://www.apache.org/licenses/LICENSE-2.0
+    <!-- Gestures and actions -->
+    <string name="action">Action</string>
+    <string name="group_applications">Applications</string>
+    <string name="choose_app">Choose application</string>
+    <string name="category_double_swipe_gesture">Swipe with two fingers</string>
+    <string name="offscreen_gesture_title">Gestures when screen is off</string>
+    <string name="category_circle_gesture">Letter O</string>
+    <string name="category_down_arrow_gesture">Letter V</string>
+    <string name="category_up_arrow_gesture">Letter A</string>
+    <string name="category_left_arrow_gesture">Swipe left</string>
+    <string name="category_right_arrow_gesture">Swipe right</string>
+    <string name="category_gestures_summary">Configure gesture actions</string>
+    <string name="torch_entry">Flashlight</string>
+    <string name="disabled_entry">Disabled</string>
+    <string name="camera_entry">Camera</string>
+    <string name="music_play_entry">Play / pause music</string>
+    <string name="music_prev_entry">Previous track</string>
+    <string name="music_next_entry">Next track</string>
+    <string name="volume_up">Raise volume</string>
+    <string name="volume_down">Lower volume</string>
+    <string name="browse_scroll_up">Scroll up</string>
+    <string name="browse_scroll_down">Scroll down</string>
+    <string name="navigate_back">Back</string>
+    <string name="navigate_home">Home</string>
+    <string name="navigate_recent">Recent</string>
+    <string name="not_ready_summary">Resolving...</string>
+    <string name="resolve_failed_summary">Resolving application failed</string>
+    <string name="category_down_swipe_gesture">Down swipe</string>
+    <string name="category_up_swipe_gesture">Up swipe</string>
+    <string name="category_left_swipe_gesture">Left swipe</string>
+    <string name="category_right_swipe_gesture">Right swipe</string>
+    <string name="category_fp_down_swipe_gesture">Fingerprint down swipe</string>
+    <string name="category_fp_up_swipe_gesture">Fingerprint up swipe</string>
+    <string name="category_fp_right_swipe_gesture">Fingerprint right swipe</string>
+    <string name="category_fp_left_swipe_gesture">Fingerprint left swipe</string>
+    <string name="category_fp_long_press_gesture">Fingerprint long press</string>
+    <string name="wake_entry">Wakeup</string>
+    <string name="off_screen_gesture_feedback_summary_head">Enable haptic feedback for gestures</string>
+    <string name="off_screen_gesture_feedback_title_head">Haptic feedback</string>
+    <string name="proxi_summary_head">Check proximity sensor for handling gesture and fingerprint sensor</string>
+    <string name="proxi_title_head">Proximity check</string>
 
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Advanced settings</string>
-
-    <!-- O-Touch settings -->
-    <string name="backpad_panel_title" translatable="false">O-Touch</string>
-
-    <string name="touchpad_enable_title">Enable O-Touch</string>
-    <string name="touchpad_enable_summary">Rear touchpad to navigate the phone</string>
-    <string name="touchpad_long_press_title">Long press to launch camera</string>
-    <string name="touchpad_long_press_summary">Long press on the touchpad will launch the camera application</string>
-    <string name="touchpad_double_tap_title">Double tap to capture</string>
-    <string name="touchpad_double_tap_summary">While in camera, double tap to capture image</string>
-
-    <!-- Gesture shortcuts -->
-    <string name="screen_gestures_panel_title">Device extras</string>
-    <string name="gestures_dashboard_summary">Gestures specific to OnePlus devices</string>
-
-    <string name="touchscreen_double_tap_gesture_title">Wake device</string>
-    <string name="touchscreen_double_tap_gesture_summary">Double tap to wake the device</string>
-    <string name="touchscreen_camera_gesture_title">Camera</string>
-    <string name="touchscreen_camera_gesture_summary">Draw a circle to activate camera</string>
-    <string name="touchscreen_music_gesture_title">Music</string>
-    <string name="touchscreen_flashlight_gesture_title">Flashlight</string>
-    <string name="touchscreen_flashlight_gesture_summary">Draw a \'V\' to toggle flashlight</string>
-    <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
-    • Two fingers vertically to play/pause\n
-    • Draw left arrow (\'&#60;\') for previous track\n
-    • Draw right arrow (\'&#62;\') for next track</string>
-
-    <!-- O-Click settings -->
-    <string name="oclick_panel_title" translatable="false">O-Click</string>
-
-    <string name="oclick_connect_string">Connect</string>
-    <string name="oclick_disconnect_string">Disconnect</string>
-    <string name="oclick_summary_connected">Connected to O-Click</string>
-    <string name="oclick_summary_paired">O-Click paired, but disconnected</string>
-    <string name="oclick_dialog_title" translatable="false">O-Click</string>
-    <string name="oclick_dialog_connecting_message">Connecting to O-Click\u2026\nPress the O-Click button to speed up discovery.</string>
-    <string name="oclick_take_snapshot_title">Remote camera shutter</string>
-    <string name="oclick_take_snapshot_summary">Single click to take picture</string>
-    <string name="oclick_find_my_phone_title">Phone locator</string>
-    <string name="oclick_find_my_phone_summary">Double click to find phone</string>
-    <string name="oclick_fence_title">Proximity alert</string>
-    <string name="oclick_fence_summary">Alert when not near phone</string>
-    <string name="oclick_disconnect_alert_title">Out of range alert</string>
-    <string name="oclick_disconnect_alert_summary">Alert when outside of reach</string>
-
-    <string name="alert_category_title">Alerts</string>
-    <string name="action_category_title">Actions</string>
-
-    <!-- O-Click notification -->
-    <string name="oclick_locator_notification_title">O-Click phone locator</string>
-    <string name="oclick_locator_notification_text">Locator alert is playing. Tap to dismiss</string>
-    <string name="oclick_notification_title_connected">O-Click connected</string>
-    <string name="oclick_notification_title_disconnected">O-Click disconnected</string>
-    <string name="oclick_notification_content_disconnected">Press the O-Click button to reconnect</string>
-
-    <!-- haptic feedback  -->
-    <string name="touchscreen_extras">Extras</string>
-    <string name="haptic_feedback">Haptic feedback</string>
-    <string name="haptic_feedback_summary">Vibrate when a gesture is detected</string>
-
-    <!-- Button settings -->
-    <string name="button_panel_title">Alert Slider</string>
-    <string name="buttons_dashboard_summary">Alert Slider settings</string>
-
-    <!-- Notification slider -->
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_none">None</string>
 </resources>
