@@ -58,7 +58,7 @@
     <string name="category_double_swipe_gesture">Провести двумя пальцами</string>
     <string name="offscreen_gesture_title">Управление жестами при выключенном экране</string>
     <string name="category_circle_gesture">Буква O</string>
-    <string name="category_down_arrow_gesture">Буква V</string>
+    <string name="category_down_arrow_gesture">Буква V </string>
     <string name="category_up_arrow_gesture">Буква A</string>
     <string name="category_left_arrow_gesture">Провести влево</string>
     <string name="category_right_arrow_gesture">Провести вправо</string>

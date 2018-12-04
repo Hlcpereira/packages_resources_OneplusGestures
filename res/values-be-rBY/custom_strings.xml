@@ -79,7 +79,7 @@
     <string name="category_down_swipe_gesture">Свайп уніз</string>
     <string name="category_up_swipe_gesture">Свайп уверх</string>
     <string name="category_left_swipe_gesture">Свайп налева</string>
-    <string name="category_right_swipe_gesture">Свайп направа</string>
+    <string name="category_right_swipe_gesture"> Свайп направа</string>
     <string name="category_fp_down_swipe_gesture">Свайп уніз па сканару адбіткаў</string>
     <string name="category_fp_up_swipe_gesture">Свайп уверх па сканару адбіткаў</string>
     <string name="category_fp_right_swipe_gesture">Свайп управа па сканару адбіткаў</string>

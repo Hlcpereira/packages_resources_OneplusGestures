@@ -29,6 +29,14 @@
     <string name="slider_mode_dnd">Täielik vaikus</string>
     <!-- Graphics -->
     <string name="panel_category_title">Paneeli moodid</string>
+    <string name="panel_category_summary">Režiimid paneeli värvi korrigeerimiseks</string>
+    <string name="off_mode_title">Väljas</string>
+    <string name="graphics_title">Graafika</string>
+    <string name="srgb_mode_title">sRGB režiim</string>
+    <string name="hbm_mode_title">Kõrge heleduse režiim</string>
+    <string name="adaptive_mode_title">Adaptiivne režiim</string>
+    <string name="oneplus_mode_title">Oneplusi režiim</string>
+    <string name="night_mode_title">Öörežiim</string>
     <!-- USB-OTG -->
     <!-- Doze -->
     <!-- Gestures and actions -->

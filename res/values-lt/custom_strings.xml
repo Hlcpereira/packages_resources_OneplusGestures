@@ -58,7 +58,7 @@
     <string name="category_double_swipe_gesture">Braukite dviem pirštais</string>
     <string name="offscreen_gesture_title">Gestai, kai ekranas išjungtas</string>
     <string name="category_circle_gesture">Raidė O</string>
-    <string name="category_down_arrow_gesture">Raidė V</string>
+    <string name="category_down_arrow_gesture">Raidė V </string>
     <string name="category_up_arrow_gesture">Raidė A</string>
     <string name="category_left_arrow_gesture">Braukite kairėn</string>
     <string name="category_right_arrow_gesture">Braukite dešinėn</string>
