@@ -32,12 +32,12 @@
     <string name="off_mode_title">Ανενεργό</string>
     <string name="graphics_title">Γραφικά</string>
     <string name="srgb_mode_title">sRGB στυλ</string>
-    <string name="hbm_mode_title">Λειτουργεία υψηλής φωτεινότητας</string>
+    <string name="hbm_mode_title">Λειτουργία υψηλής φωτεινότητας</string>
     <string name="adaptive_mode_title">Προσαρμοσιμότητα</string>
     <string name="oneplus_mode_title">Λειτουργία OnePlus</string>
-    <string name="night_mode_title">Νυκτερινή λειτουργία</string>
+    <string name="night_mode_title">Νυχτερινή λειτουργία</string>
     <!-- USB-OTG -->
-    <string name="otg_switch_summary">Ενεργοποίηση/απενεργοποίηση υποστήριξης USB-OTG</string>
+    <string name="otg_switch_summary">Ενεργοποίηση/Απενεργοποίηση υποστήριξης USB-OTG</string>
     <string name="otg_switch_title">Υποστήριξη USB-OTG</string>
     <!-- Doze -->
     <string name="doze_category_summary">Ενεργοποίηση της οθόνης όταν λαμβάνετε ειδοποιήσεις</string>
@@ -59,7 +59,7 @@
     <string name="torch_entry">Φακός</string>
     <string name="disabled_entry">Απενεργοποιημένο</string>
     <string name="camera_entry">Φωτογραφική μηχανή</string>
-    <string name="music_play_entry">Αναπαραγωγή ή παύση μουσικής</string>
+    <string name="music_play_entry">Αναπαραγωγή / παύση μουσικής</string>
     <string name="music_prev_entry">Προηγούμενο κομμάτι</string>
     <string name="music_next_entry">Επόμενο κομμάτι</string>
     <string name="volume_up">Αύξηση έντασης</string>

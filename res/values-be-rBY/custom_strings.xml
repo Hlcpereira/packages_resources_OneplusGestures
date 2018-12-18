@@ -76,6 +76,7 @@
     <string name="navigate_back">Назад</string>
     <string name="navigate_home">Дадому</string>
     <string name="navigate_recent">Нядаўнія</string>
+    <string name="not_ready_summary">Вырашаецца...</string>
     <string name="category_down_swipe_gesture">Свайп уніз</string>
     <string name="category_up_swipe_gesture">Свайп уверх</string>
     <string name="category_left_swipe_gesture">Свайп налева</string>

@@ -4,13 +4,13 @@
     <!-- General -->
     <string name="advanced_settings">การตั้งค่า OnePlus</string>
     <string name="advanced_settings_summary">การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ของคุณ</string>
-    <string name="category_gestures_title">ท่าทางสัมผัสอุปกรณ์</string>
+    <string name="category_gestures_title">ท่าทางการสัมผัสอุปกรณ์</string>
     <string name="dlg_ok">ตกลง</string>
     <string name="cancel">ยกเลิก</string>
     <string name="reset">รีเซ็ต/ตั้งค่าใหม่</string>
     <string name="reset_message">รีเซ็ตเป็นค่าเริ่มต้น?</string>
-    <string name="enable_gestures_title">เปิดใช้งานท่าทาง</string>
-    <string name="fp_gesture_title">รูปแบบท่าทางสแกนลายนิ้วมือ</string>
+    <string name="enable_gestures_title">เปิดใช้งานเจสเจอร์</string>
+    <string name="fp_gesture_title">ท่าทางสำหรับการสแกนลายนิ้วมือ</string>
     <!-- Buttons -->
     <string name="buttons_title">ปุ่ม</string>
     <string name="button_swap_title">สลับปุ่ม</string>
@@ -28,7 +28,7 @@
     <string name="slider_mode_title_bottom">ตำแหน่งล่างสุด</string>
     <string name="slider_mode_dnd">เงียบทั้งหมด</string>
     <!-- Graphics -->
-    <string name="panel_category_title">โหมด Panel</string>
+    <string name="panel_category_title">โหมดแผงควบคุม</string>
     <string name="panel_category_summary">โหมดสำหรับการแก้ไขสี</string>
     <string name="off_mode_title">ปิด</string>
     <string name="graphics_title">กราฟิก</string>
@@ -56,13 +56,13 @@
     <string name="group_applications">แอพพลิเคชั่น</string>
     <string name="choose_app">เลือกแอพลิเคชัน</string>
     <string name="category_double_swipe_gesture">ปัดนิ้วด้วยสองนิ้ว</string>
-    <string name="offscreen_gesture_title">จัดการรูปแบบท่าทางการสัมผัสเมื่อหน้าจอปิด</string>
+    <string name="offscreen_gesture_title">จัดการรูปแบบท่าทางการสัมผัสเมือหน้าจอปิด</string>
     <string name="category_circle_gesture">ตัวอักษร O</string>
     <string name="category_down_arrow_gesture">ตัวอักษร V</string>
     <string name="category_up_arrow_gesture">ตัวอักษร A</string>
     <string name="category_left_arrow_gesture">ปัดไปทางซ้าย</string>
     <string name="category_right_arrow_gesture">ปัดไปทางขวา</string>
-    <string name="category_gestures_summary">การกำหนดค่าการกระทำท่าทาง</string>
+    <string name="category_gestures_summary">การกำหนดค่าในการกระทำของเจสเจอร์</string>
     <string name="torch_entry">ไฟฉาย</string>
     <string name="disabled_entry">ปิดการใช้งาน</string>
     <string name="camera_entry">กล้องถ่ายรูป</string>
@@ -87,7 +87,7 @@
     <string name="category_fp_right_swipe_gesture">ปัดนิ้วมือไปทางขวา</string>
     <string name="category_fp_left_swipe_gesture">ปัดนิ้วมือไปทางซ้าย</string>
     <string name="category_fp_long_press_gesture">กดนิ้วมือค้างไว้</string>
-    <string name="wake_entry">Wakeup</string>
+    <string name="wake_entry">ตื่นขึ้น</string>
     <string name="off_screen_gesture_feedback_summary_head">เปิดการใช้งาน สั่นเมื่อแตะ สำหรับท่าทาง</string>
     <string name="off_screen_gesture_feedback_title_head">สั่นเมื่อแตะ</string>
     <string name="proxi_summary_head">ตรวจสอบเซนเซอร์ Proximity สำหรับการจัดการเซ็นเซอร์ลายนิ้วมือและท่าทาง</string>
