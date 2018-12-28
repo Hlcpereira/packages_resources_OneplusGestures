@@ -77,6 +77,7 @@
     <string name="navigate_home">Дадому</string>
     <string name="navigate_recent">Нядаўнія</string>
     <string name="not_ready_summary">Вырашаецца...</string>
+    <string name="resolve_failed_summary">Краш прыкладання</string>
     <string name="category_down_swipe_gesture">Свайп уніз</string>
     <string name="category_up_swipe_gesture">Свайп уверх</string>
     <string name="category_left_swipe_gesture">Свайп налева</string>
@@ -90,4 +91,5 @@
     <string name="off_screen_gesture_feedback_summary_head">Уключыць тактыльную зваротную сувязь для жэстаў</string>
     <string name="off_screen_gesture_feedback_title_head">Вібраводгук</string>
     <string name="proxi_summary_head">Праверце датчык набліжэння для апрацоўкі жэсту і датчыка адбіткаў пальцаў</string>
+    <string name="proxi_title_head">Праверка блізкасці</string>
 </resources>

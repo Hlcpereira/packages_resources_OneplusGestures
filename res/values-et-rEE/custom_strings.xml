@@ -37,9 +37,36 @@
     <string name="adaptive_mode_title">Adaptiivne režiim</string>
     <string name="oneplus_mode_title">Oneplusi režiim</string>
     <string name="night_mode_title">Öörežiim</string>
+    <string name="dci_mode_title">Terve värvispektri kasutamine</string>
     <!-- USB-OTG -->
+    <string name="otg_switch_summary">Luba/Keela USB-OTG tugi</string>
+    <string name="otg_switch_title">USB-OTG tugi</string>
     <!-- Doze -->
+    <string name="doze_category_title">Muutuv valgustus</string>
+    <string name="doze_category_summary">Ärata ekraan teavituste saabumisel</string>
+    <string name="wave_check_summary">Näita teavitusi käega lehvitades</string>
+    <string name="wave_check_title">Käelehvitus</string>
+    <string name="tilt_check_summary">Näita teavitusi seadme tõstmisel</string>
+    <string name="tilt_check_title">Tõsta üles</string>
+    <string name="pocket_check_summary">Näita teavitusi seadme taskust võtmisel</string>
+    <string name="pocket_check_title">Tasku</string>
+    <string name="ambient_display_enable">Muutuv valgustus peab olema seadetes lubatud</string>
     <!-- Gestures and actions -->
+    <string name="action">Tegevus</string>
+    <string name="group_applications">Rakendused</string>
+    <string name="choose_app">Valige rakendus</string>
+    <string name="category_double_swipe_gesture">Viipa kahe sõrmega</string>
+    <string name="offscreen_gesture_title">Žestid, kui ekraan on väljas</string>
+    <string name="category_circle_gesture">Täht O</string>
+    <string name="category_down_arrow_gesture">Täht V</string>
+    <string name="category_up_arrow_gesture">Täht A</string>
+    <string name="category_left_arrow_gesture">Viipamine vasakule</string>
+    <string name="category_right_arrow_gesture">Viipamine paremale</string>
+    <string name="category_gestures_summary">Seadista Žeste</string>
+    <string name="torch_entry">Taskulamp</string>
+    <string name="disabled_entry">Keelatud</string>
+    <string name="camera_entry">Kaamera</string>
+    <string name="music_play_entry">Mängi / Peata muusika</string>
     <string name="music_prev_entry">Eelmine lugu</string>
     <string name="music_next_entry">Järgmine lugu</string>
     <string name="volume_up">Suurenda helitugevust</string>

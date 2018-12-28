@@ -49,8 +49,8 @@
     <string name="tilt_check_summary">기기를 들면 알림 표시</string>
     <string name="tilt_check_title">기기 들기</string>
     <string name="pocket_check_summary">주머니에서 꺼내면 알림 표시</string>
-    <string name="pocket_check_title">주머니</string>
-    <string name="ambient_display_enable">디스플레이 설정에서 주엠비언트 디스플레이를 활성화해야 합니다.</string>
+    <string name="pocket_check_title">포켓</string>
+    <string name="ambient_display_enable">디스플레이 설정에서 주변 디스플레이를 활성화해야 합니다.</string>
     <!-- Gestures and actions -->
     <string name="action">동작</string>
     <string name="group_applications">애플리케이션</string>
