@@ -4,7 +4,7 @@
     <!-- General -->
     <string name="advanced_settings">OnePlus postavke</string>
     <string name="advanced_settings_summary">Prilagođene postavke za tvoj uređaj</string>
-    <string name="category_gestures_title">Geste</string>
+    <string name="category_gestures_title">Geste uređaja</string>
     <string name="dlg_ok">U redu</string>
     <string name="cancel">Odustani</string>
     <string name="reset">Resetiraj</string>
@@ -16,7 +16,7 @@
     <string name="button_swap_title">Zamijeni tipke</string>
     <string name="button_swap_summary">Zamijeni redoslijed tipki za prikaz nedavnih aplikacija i tipke za povratak natrag</string>
     <!-- Slider -->
-    <string name="category_slider">Klizač obavijesti</string>
+    <string name="category_slider">Traka obavijesti</string>
     <string name="slider_mode_off">Isključeno</string>
     <string name="slider_mode_vibrate">Vibriraj</string>
     <string name="slider_mode_silent">Tiho</string>
@@ -66,7 +66,7 @@
     <string name="torch_entry">Svjetiljka</string>
     <string name="disabled_entry">Isključeno</string>
     <string name="camera_entry">Kamera</string>
-    <string name="music_play_entry">Sviraj / zaustavi glazbu</string>
+    <string name="music_play_entry">Sviraj / pauziraj glazbu</string>
     <string name="music_prev_entry">Prethodna pjesma</string>
     <string name="music_next_entry">Sljedeća pjesma</string>
     <string name="volume_up">Povećaj glasnoću</string>
@@ -91,5 +91,5 @@
     <string name="off_screen_gesture_feedback_summary_head">Omogući haptički povrat za geste</string>
     <string name="off_screen_gesture_feedback_title_head">Haptička povratna informacija</string>
     <string name="proxi_summary_head">Provjeri senzor daljine za korištenje gesta i senzor otiska prsta</string>
-    <string name="proxi_title_head">Provjera senzora blizine</string>
+    <string name="proxi_title_head">Provjera blizine</string>
 </resources>

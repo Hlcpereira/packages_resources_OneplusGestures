@@ -28,6 +28,8 @@
     <string name="slider_mode_title_bottom">Най-ниска позиция</string>
     <string name="slider_mode_dnd">Пълна тишина</string>
     <!-- Graphics -->
+    <string name="panel_category_title">Режим панел</string>
+    <string name="panel_category_summary">Режими за корекция на цвета на панела</string>
     <string name="off_mode_title">Изкл.</string>
     <string name="graphics_title">Графики</string>
     <string name="srgb_mode_title">Режим sRGB</string>
@@ -35,27 +37,36 @@
     <string name="adaptive_mode_title">Адаптивен режим</string>
     <string name="oneplus_mode_title">Режим OnePlus</string>
     <string name="night_mode_title">Нощен режим</string>
+    <string name="dci_mode_title">Широк режим на цветовата гама</string>
     <!-- USB-OTG -->
+    <string name="otg_switch_summary">Активиране/Деактивиране на USB-OTG поддръжка</string>
     <string name="otg_switch_title">Поддръжка на USB-OTG</string>
     <!-- Doze -->
     <string name="doze_category_title">Активен дисплей</string>
     <string name="doze_category_summary">Събуждане на екрана при получаване на известие</string>
     <string name="wave_check_summary">Показва известията при прекарване на ръка над екрана</string>
     <string name="wave_check_title">Махане с ръка</string>
+    <string name="tilt_check_summary">Пулсиращи известия при повдигане на устройството</string>
     <string name="tilt_check_title">Повдигане</string>
     <string name="pocket_check_summary">Показва известията, когато извадите устройството от джоба си</string>
     <string name="pocket_check_title">Джоб</string>
+    <string name="ambient_display_enable">В настройките на дисплея трябва да бъде активиран дисплей спрямо околната среда</string>
     <!-- Gestures and actions -->
     <string name="action">Действие</string>
     <string name="group_applications">Приложения</string>
     <string name="choose_app">Избери приложение</string>
     <string name="category_double_swipe_gesture">Плъзнете с два пръста</string>
     <string name="offscreen_gesture_title">Управление на жестовете, когато екранът е изключен</string>
+    <string name="category_circle_gesture">Буква O</string>
+    <string name="category_down_arrow_gesture">Буква V</string>
+    <string name="category_up_arrow_gesture">Буква A</string>
     <string name="category_left_arrow_gesture">Плъзнете наляво</string>
     <string name="category_right_arrow_gesture">Плъзнете надясно</string>
+    <string name="category_gestures_summary">Настройки на действия за жестове</string>
     <string name="torch_entry">Фенерче</string>
     <string name="disabled_entry">Изключено</string>
     <string name="camera_entry">Камера</string>
+    <string name="music_play_entry">Възпроизвеждане / пауза на музика</string>
     <string name="music_prev_entry">Предишна песен</string>
     <string name="music_next_entry">Следваща песен</string>
     <string name="volume_up">Усилване на звука</string>
@@ -66,9 +77,19 @@
     <string name="navigate_home">Начало</string>
     <string name="navigate_recent">Скорошни</string>
     <string name="not_ready_summary">В процес на разрешаване...</string>
+    <string name="resolve_failed_summary">Грешка в разрешаване на приложението</string>
     <string name="category_down_swipe_gesture">Плъзване надолу</string>
     <string name="category_up_swipe_gesture">Плъзване нагоре</string>
     <string name="category_left_swipe_gesture">Плъзгане наляво</string>
     <string name="category_right_swipe_gesture">Плъзгане надясно</string>
+    <string name="category_fp_down_swipe_gesture">Плъзгане надолу по скенера на пръстовия отпечатък</string>
+    <string name="category_fp_up_swipe_gesture">Плъзгане нагоре по скенера на пръстовия отпечатък</string>
+    <string name="category_fp_right_swipe_gesture">Плъзгане надясно по скенера на пръстовия отпечатък</string>
+    <string name="category_fp_left_swipe_gesture">Плъзгане наляво по скенера на пръстовия отпечатък</string>
+    <string name="category_fp_long_press_gesture">Дълго натискане на скенера за пръстов отпечатък</string>
+    <string name="wake_entry">Пробуждане</string>
+    <string name="off_screen_gesture_feedback_summary_head">Активиране на обратна връзка за жестовете</string>
     <string name="off_screen_gesture_feedback_title_head">Oбратна връзка</string>
+    <string name="proxi_summary_head">Проверете сензора за близост, за да работите с жестове и сензора за пръстови отпечатъци</string>
+    <string name="proxi_title_head">Проверка на сензора за близост</string>
 </resources>
