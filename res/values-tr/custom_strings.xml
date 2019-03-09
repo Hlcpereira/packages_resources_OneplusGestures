@@ -20,7 +20,7 @@
     <string name="slider_mode_off">Kapalı</string>
     <string name="slider_mode_vibrate">Titreşim</string>
     <string name="slider_mode_silent">Sessiz</string>
-    <string name="slider_mode_priority">Yalnızca öncelikli olanlar</string>
+    <string name="slider_mode_priority">Sadece öncelikli olanlar</string>
     <string name="slider_mode_alarm">Sadece alarmlar</string>
     <string name="slider_mode_zen">Rahatsız etmeyin</string>
     <string name="slider_mode_title_top">Üst konum</string>

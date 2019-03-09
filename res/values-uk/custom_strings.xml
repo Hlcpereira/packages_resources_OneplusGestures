@@ -3,18 +3,18 @@
 <resources>
     <!-- General -->
     <string name="advanced_settings">Налаштування OnePlus</string>
-    <string name="advanced_settings_summary">Користувацькі налаштування для вашого пристрою</string>
+    <string name="advanced_settings_summary">Додаткові налаштування пристрою</string>
     <string name="category_gestures_title">Жести</string>
-    <string name="dlg_ok">ОК</string>
-    <string name="cancel">Відмінити</string>
+    <string name="dlg_ok">Згода</string>
+    <string name="cancel">Скасувати</string>
     <string name="reset">Скинути</string>
     <string name="reset_message">Встановити значення за замовчуванням? </string>
-    <string name="enable_gestures_title">Ввімкнути жести</string>
+    <string name="enable_gestures_title">Увімкнути жести</string>
     <string name="fp_gesture_title">Жести сканеру відбитків пальців</string>
     <!-- Buttons -->
     <string name="buttons_title">Кнопки</string>
     <string name="button_swap_title">Поміняти кнопки місцями</string>
-    <string name="button_swap_summary">Поміняти місцями кнопки \"Огляд\" і \"Назад\"</string>
+    <string name="button_swap_summary">Поміняти місцями кнопки \"Нещодавні\" та \"Повернутися\"</string>
     <!-- Slider -->
     <string name="category_slider">Перемикач сповіщень</string>
     <string name="slider_mode_off">Вимкнено</string>

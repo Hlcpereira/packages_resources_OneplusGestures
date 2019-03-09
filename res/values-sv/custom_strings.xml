@@ -28,12 +28,16 @@
     <string name="slider_mode_title_bottom">Bottenposition</string>
     <string name="slider_mode_dnd">Helt tyst</string>
     <!-- Graphics -->
+    <string name="panel_category_title">Skärmkalibrering</string>
+    <string name="panel_category_summary">Lägen för skärmkalibrering</string>
     <string name="off_mode_title">Av</string>
     <string name="graphics_title">Grafik</string>
+    <string name="srgb_mode_title">sRGB läge</string>
     <string name="hbm_mode_title">Hög ljusstyrka läge</string>
     <string name="adaptive_mode_title">Adaptive Läge</string>
     <string name="oneplus_mode_title">OnePlus läge</string>
     <string name="night_mode_title">Nattläge</string>
+    <string name="dci_mode_title">Bred färgskale läge</string>
     <!-- USB-OTG -->
     <string name="otg_switch_summary">Sätta/Stänga av USG-OTG stöd</string>
     <string name="otg_switch_title">USB-OTG stöd</string>
@@ -82,5 +86,10 @@
     <string name="category_fp_up_swipe_gesture">Fingeravtryck svep up</string>
     <string name="category_fp_right_swipe_gesture">Fingeravtryck svep höger</string>
     <string name="category_fp_left_swipe_gesture">Fingeravtryck svep vänster</string>
+    <string name="category_fp_long_press_gesture">Tryck länge på fingeravtrycksensorn</string>
     <string name="wake_entry">Vakna</string>
+    <string name="off_screen_gesture_feedback_summary_head">Slå på haptisk återkoppling för gester</string>
+    <string name="off_screen_gesture_feedback_title_head">Haptisk återkoppling</string>
+    <string name="proxi_summary_head">Kontrollera närhetssensor för hanterings gester och fingeravtryckssensor</string>
+    <string name="proxi_title_head">Närhets kontrollera</string>
 </resources>

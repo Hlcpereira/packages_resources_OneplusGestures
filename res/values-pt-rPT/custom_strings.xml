@@ -39,7 +39,7 @@
     <string name="night_mode_title">Modo noturno</string>
     <string name="dci_mode_title">Modo de alta variedade gama</string>
     <!-- USB-OTG -->
-    <string name="otg_switch_summary">Activar/Desactivar suporte USB-OTG</string>
+    <string name="otg_switch_summary">Ativar/Desativar suporte USB-OTG</string>
     <string name="otg_switch_title">Suporte USB-OTG</string>
     <!-- Doze -->
     <string name="doze_category_title">Ecrã ambiente</string>

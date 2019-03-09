@@ -8,7 +8,7 @@
     <string name="dlg_ok">はい</string>
     <string name="cancel">キャンセル</string>
     <string name="reset">リセット</string>
-    <string name="reset_message">全てのエントリを既定にリセットしますか？</string>
+    <string name="reset_message">全ての項目を既定にリセットしますか?</string>
     <string name="enable_gestures_title">ジェスチャーを有効化</string>
     <string name="fp_gesture_title">指紋ジェスチャー</string>
     <!-- Buttons -->
@@ -17,7 +17,7 @@
     <string name="button_swap_summary">アプリ履歴ボタンと戻るボタンの位置を入れ替える</string>
     <!-- Slider -->
     <string name="category_slider">通知スライダー</string>
-    <string name="slider_mode_off">オフ</string>
+    <string name="slider_mode_off">OFF</string>
     <string name="slider_mode_vibrate">振動</string>
     <string name="slider_mode_silent">サイレント</string>
     <string name="slider_mode_priority">優先する通知のみ</string>
@@ -30,7 +30,7 @@
     <!-- Graphics -->
     <string name="panel_category_title">パネルモード</string>
     <string name="panel_category_summary">画面カラー補正モード</string>
-    <string name="off_mode_title">オフ</string>
+    <string name="off_mode_title">OFF</string>
     <string name="graphics_title">グラフィック</string>
     <string name="srgb_mode_title">sRGB モード</string>
     <string name="hbm_mode_title">高輝度モード</string>
@@ -43,7 +43,7 @@
     <string name="otg_switch_title">USB-OTG サポート</string>
     <!-- Doze -->
     <string name="doze_category_title">アンビエント表示</string>
-    <string name="doze_category_summary">通知を受信した時に画面をオンにする</string>
+    <string name="doze_category_summary">通知を受信した時に画面を点灯する</string>
     <string name="wave_check_summary">手を振った時に通知を点滅表示する</string>
     <string name="wave_check_title">ハンドウェーブ</string>
     <string name="tilt_check_summary">端末を持ち上げた時に通知を点滅させる</string>
@@ -56,7 +56,7 @@
     <string name="group_applications">アプリ</string>
     <string name="choose_app">アプリを選択</string>
     <string name="category_double_swipe_gesture">2本指でスワイプ</string>
-    <string name="offscreen_gesture_title">画面オフ時のジェスチャー</string>
+    <string name="offscreen_gesture_title">画面消灯時のジェスチャー</string>
     <string name="category_circle_gesture">「O」文字</string>
     <string name="category_down_arrow_gesture">「V」文字</string>
     <string name="category_up_arrow_gesture">「A」文字</string>
@@ -66,7 +66,7 @@
     <string name="torch_entry">フラッシュライト</string>
     <string name="disabled_entry">無効</string>
     <string name="camera_entry">カメラ</string>
-    <string name="music_play_entry">音楽の再生/一時停止</string>
+    <string name="music_play_entry">音楽の 再生/一時停止</string>
     <string name="music_prev_entry">前のトラック</string>
     <string name="music_next_entry">次のトラック</string>
     <string name="volume_up">音量増加</string>
