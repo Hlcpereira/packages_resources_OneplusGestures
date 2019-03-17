@@ -3,7 +3,7 @@
 <resources>
     <!-- General -->
     <string name="advanced_settings">OnePlus postavke</string>
-    <string name="advanced_settings_summary">Prilagođene postavke za tvoj uređaj</string>
+    <string name="advanced_settings_summary">Prilagođene postavke za Vaš uređaj</string>
     <string name="category_gestures_title">Geste uređaja</string>
     <string name="dlg_ok">U redu</string>
     <string name="cancel">Odustani</string>
@@ -74,7 +74,7 @@
     <string name="browse_scroll_up">Pomak gore</string>
     <string name="browse_scroll_down">Pomak dolje</string>
     <string name="navigate_back">Natrag</string>
-    <string name="navigate_home">Početna stranica</string>
+    <string name="navigate_home">Početna</string>
     <string name="navigate_recent">Nedavno</string>
     <string name="not_ready_summary">Rješavam...</string>
     <string name="resolve_failed_summary">Riješavanje aplikacije nije uspijelo</string>

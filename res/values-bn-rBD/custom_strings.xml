@@ -28,6 +28,7 @@
     <string name="slider_mode_title_bottom">নিন্ম অবস্থান</string>
     <string name="slider_mode_dnd">পুরোপুরি নীরবতা</string>
     <!-- Graphics -->
+    <string name="panel_category_title">প্যানেল মোডস</string>
     <string name="off_mode_title">বন্ধ</string>
     <string name="graphics_title">গ্রাফিক্স</string>
     <string name="srgb_mode_title">প্রামাণ্য লাল-সবুজ-নীল রূপ</string>
@@ -38,6 +39,7 @@
     <string name="dci_mode_title">অতিরঞ্জিত রূপ</string>
     <!-- USB-OTG -->
     <string name="otg_switch_summary">ইউএসবি-ওটিজির সমর্থন সক্রিয়/নিষ্ক্রিয় করুন</string>
+    <string name="otg_switch_title">ইউএসবি-ওটিজি সাপোর্ট</string>
     <!-- Doze -->
     <string name="doze_category_title">পারিপার্শ্বিক প্রদর্শন</string>
     <string name="doze_category_summary">বিজ্ঞপ্তি প্রাপ্ত হলে স্ক্রীন সক্রিয় হবে</string>
@@ -49,14 +51,17 @@
     <string name="pocket_check_title">পকেট</string>
     <string name="ambient_display_enable">প্রদর্শনের নিয়ন্ত্রণে পারিপার্শ্বিক প্রদর্শন অবশ্যই সক্রিয় থাকতে হবে</string>
     <!-- Gestures and actions -->
+    <string name="action">একশন</string>
     <string name="group_applications">অ্যাপ্লিকেশন</string>
     <string name="choose_app">অ্যাপ্লিকেশন নির্বাচন করুন</string>
     <string name="category_double_swipe_gesture">দুই আঙুল দিয়ে টানুন</string>
+    <string name="offscreen_gesture_title">গেসচার চালু রাখুন যখন স্ক্রিন অফ থাকবে</string>
     <string name="category_circle_gesture">অক্ষর O</string>
     <string name="category_down_arrow_gesture">অক্ষর V</string>
     <string name="category_up_arrow_gesture">অক্ষর A</string>
     <string name="category_left_arrow_gesture">বাঁদিকে টানুন</string>
     <string name="category_right_arrow_gesture">ডাইনে টানুন</string>
+    <string name="torch_entry">লাইট</string>
     <string name="disabled_entry">অক্ষম</string>
     <string name="camera_entry">ক্যামেরা</string>
     <string name="music_play_entry">গান চালান/বিরতি দিন</string>
@@ -64,9 +69,12 @@
     <string name="music_next_entry">পরের গান</string>
     <string name="volume_up">শব্দের প্রাবল্য বাড়ান</string>
     <string name="volume_down">শব্দের প্রাবল্য কমান</string>
+    <string name="browse_scroll_up">উপরে যান</string>
+    <string name="browse_scroll_down">নিচে যান</string>
     <string name="navigate_back">প্রত্যাবর্তন</string>
     <string name="navigate_home">নীড়</string>
     <string name="navigate_recent">সাম্প্রতিক</string>
+    <string name="not_ready_summary">পুনরায় ঠিক করা হচ্ছে</string>
     <string name="category_down_swipe_gesture">নীচে টানুন</string>
     <string name="category_up_swipe_gesture">উপরে টানুন</string>
     <string name="category_left_swipe_gesture">বাঁদিকে টানুন</string>

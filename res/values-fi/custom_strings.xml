@@ -5,7 +5,7 @@
     <string name="advanced_settings">OnePlus asetukset</string>
     <string name="advanced_settings_summary">Muokatut asetukset laitteellesi</string>
     <string name="category_gestures_title">Laite-eleet</string>
-    <string name="dlg_ok">Valmis</string>
+    <string name="dlg_ok">OK</string>
     <string name="cancel">Peruuta</string>
     <string name="reset">Nollaa</string>
     <string name="reset_message">Palauta kaikki merkinnät oletusarvoihin?</string>
@@ -14,7 +14,7 @@
     <!-- Buttons -->
     <string name="buttons_title">Painikkeet</string>
     <string name="button_swap_title">Vaihda näppäimien paikkaa</string>
-    <string name="button_swap_summary">Vaihda Takaisin- ja Viimeisimmät näppäinten paikkaa</string>
+    <string name="button_swap_summary">Vaihda Takaisin- ja Viimeisimmät-näppäinten paikkaa</string>
     <!-- Slider -->
     <string name="category_slider">Ilmoitusten liukusäädin</string>
     <string name="slider_mode_off">Pois</string>
@@ -23,8 +23,8 @@
     <string name="slider_mode_priority">Vain tärkeät</string>
     <string name="slider_mode_alarm">Vain hälytykset</string>
     <string name="slider_mode_zen">Älä häiritse</string>
-    <string name="slider_mode_title_top">Ylä asento</string>
-    <string name="slider_mode_title_center">Keski asento</string>
+    <string name="slider_mode_title_top">Yläasento</string>
+    <string name="slider_mode_title_center">Keskiasento</string>
     <string name="slider_mode_title_bottom">Ala-asento</string>
     <string name="slider_mode_dnd">Täysin äänetön</string>
     <!-- Graphics -->
@@ -32,23 +32,23 @@
     <string name="panel_category_summary">Paneelin säätö värien säädölle</string>
     <string name="off_mode_title">Pois</string>
     <string name="graphics_title">Grafiikat</string>
-    <string name="srgb_mode_title">sRGB tila</string>
+    <string name="srgb_mode_title">sRGB-tila</string>
     <string name="hbm_mode_title">Korkean kirkkauden tila</string>
     <string name="adaptive_mode_title">Mukautuva säätö</string>
-    <string name="oneplus_mode_title">OmePlus Tila</string>
-    <string name="night_mode_title">Yö tila</string>
-    <string name="dci_mode_title">Laaja väri säätö tila</string>
+    <string name="oneplus_mode_title">OnePlus Tila</string>
+    <string name="night_mode_title">Yötila</string>
+    <string name="dci_mode_title">Laaja väriavaruus -tila (WCG)</string>
     <!-- USB-OTG -->
     <string name="otg_switch_summary">Käytä/Poista OTG USB tuki</string>
     <string name="otg_switch_title">USB-OTG -tuki</string>
     <!-- Doze -->
     <string name="doze_category_title">Ambientti näyttö</string>
     <string name="doze_category_summary">Herätä näyttö kun saat ilmoituksia</string>
-    <string name="wave_check_summary">Käden heilautuksen notifikaatiot</string>
+    <string name="wave_check_summary">Näytä ilmoitukset heilautettaessa kättä</string>
     <string name="wave_check_title">Käden heilautus</string>
-    <string name="tilt_check_summary">Tiedonannot, kun laite nostetaan</string>
+    <string name="tilt_check_summary">Ilmoitukset, kun laite nostetaan</string>
     <string name="tilt_check_title">Poimi</string>
-    <string name="pocket_check_summary">Tiedonannot taskusta poistettaessa</string>
+    <string name="pocket_check_summary">Ilmoitukset taskusta poistettaessa</string>
     <string name="pocket_check_title">Tasku</string>
     <string name="ambient_display_enable">Ambientti näyttö täytyy laittaa päälle näyttö asetuksista</string>
     <!-- Gestures and actions -->
@@ -82,14 +82,14 @@
     <string name="category_up_swipe_gesture">Pyyhkäisy ylös</string>
     <string name="category_left_swipe_gesture">Pyyhkäisy vasemmalle</string>
     <string name="category_right_swipe_gesture">Pyyhkäisy oikealle</string>
-    <string name="category_fp_down_swipe_gesture">Sormenjäljet tunnistimen alaspäin pyyhkiminen</string>
+    <string name="category_fp_down_swipe_gesture">Sormenjälkitunnistimen alaspäin pyyhkiminen</string>
     <string name="category_fp_up_swipe_gesture">Sormenjälkitunnistimen ylöspäin pyyhkiminen</string>
     <string name="category_fp_right_swipe_gesture">Sormenjälkitunnistimen oikealle pyyhkiminen</string>
     <string name="category_fp_left_swipe_gesture">Sormenjälkitunnistimen vasemmalle pyyhkiminen</string>
     <string name="category_fp_long_press_gesture">Sormenjälkitunnistimen pitkä painallus</string>
     <string name="wake_entry">Herätys</string>
-    <string name="off_screen_gesture_feedback_summary_head">Ota käyttöön haptinene tuntuma eleille</string>
-    <string name="off_screen_gesture_feedback_title_head">Haptinen tuntuma</string>
-    <string name="proxi_summary_head">Tarkista lähestymis sensori käsittelyä ja sormenjälki tunnistimelle</string>
-    <string name="proxi_title_head">Lähestymistapa tarkistus</string>
+    <string name="off_screen_gesture_feedback_summary_head">Ota käyttöön haptinen palaute eleille</string>
+    <string name="off_screen_gesture_feedback_title_head">Haptinen palaute</string>
+    <string name="proxi_summary_head">Tarkista etäisyystunnistin eleille ja sormenjälkitunnistimelle</string>
+    <string name="proxi_title_head">Etäisyystunnistimen tarkistus</string>
 </resources>
