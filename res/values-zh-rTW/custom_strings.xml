@@ -35,12 +35,12 @@
     <string name="srgb_mode_title">sRGB 模式</string>
     <string name="hbm_mode_title">高亮度模式</string>
     <string name="adaptive_mode_title">自適應模式</string>
-    <string name="oneplus_mode_title">OnePlus模式</string>
+    <string name="oneplus_mode_title">OnePlus 模式</string>
     <string name="night_mode_title">夜間模式</string>
-    <string name="dci_mode_title">寬色域模式</string>
+    <string name="dci_mode_title">廣色域模式</string>
     <!-- USB-OTG -->
-    <string name="otg_switch_summary">啟用/停用USB-OTG支援</string>
-    <string name="otg_switch_title">USB-OTG支持</string>
+    <string name="otg_switch_summary">啟用/停用 OTG 功能</string>
+    <string name="otg_switch_title">USB-OTG 支持</string>
     <!-- Doze -->
     <string name="doze_category_title">環境顯示</string>
     <string name="doze_category_summary">當收到通知時喚醒螢幕</string>

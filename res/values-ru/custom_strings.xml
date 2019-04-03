@@ -46,11 +46,11 @@
     <string name="doze_category_summary">Пробуждать экран, когда приходит уведомление</string>
     <string name="wave_check_summary">Проведите ладонью над экраном для просмотра уведомлений</string>
     <string name="wave_check_title">Взмах рукой</string>
-    <string name="tilt_check_summary">Пульсирующие уведомления при подъёме устройства</string>
+    <string name="tilt_check_summary">Показывать уведомления при подъёме устройства</string>
     <string name="tilt_check_title">Поднятие</string>
     <string name="pocket_check_summary">Отображать уведомления при извлечении устройства из кармана</string>
     <string name="pocket_check_title">Карман</string>
-    <string name="ambient_display_enable">Ambient display должен быть включен в настройках дисплея</string>
+    <string name="ambient_display_enable">Активный дисплей должен быть включен в настройках дисплея</string>
     <!-- Gestures and actions -->
     <string name="action">Действие</string>
     <string name="group_applications">Приложения</string>

@@ -5,7 +5,27 @@
     <!-- Buttons -->
     <!-- Slider -->
     <!-- Graphics -->
+    <string name="night_mode_title">নিশা ম\'ড</string>
+    <string name="dci_mode_title">বিস্তৃত ৰং সৰগম ম\'ড</string>
     <!-- USB-OTG -->
+    <string name="otg_switch_summary">USB-OTG সমৰ্থন সক্ষম/অক্ষম কৰক</string>
+    <string name="otg_switch_title">USB-OTG সমৰ্থন</string>
     <!-- Doze -->
+    <string name="doze_category_title">পৰিব্যাপ্ত ডিচপ্লে\'</string>
+    <string name="doze_category_summary">আপুনি অধিসূচনা প্ৰাপ্ত কৰিলে প্ৰচ্ছদখনক জাগ্ৰত কৰিব</string>
+    <string name="wave_check_summary">হাত জোকাৰিলে স্পন্দনৰ অধিসূচনা</string>
+    <string name="wave_check_title">হাত জোকাৰা</string>
     <!-- Gestures and actions -->
+    <string name="navigate_home">গৃহ</string>
+    <string name="navigate_recent">শেহতীয়া</string>
+    <string name="category_down_swipe_gesture">তললৈ ছুৱাইপ</string>
+    <string name="category_up_swipe_gesture">ওপৰলৈ ছুৱাইপ</string>
+    <string name="category_left_swipe_gesture">বাওঁ ছুৱাইপ</string>
+    <string name="category_right_swipe_gesture">সোঁ ছুৱাইপ</string>
+    <string name="category_fp_down_swipe_gesture">আঙুলিৰ চাপ তললৈ ছুৱাইপ</string>
+    <string name="category_fp_up_swipe_gesture">আঙুলিৰ চাপ ওপৰলৈ ছুৱাইপ</string>
+    <string name="category_fp_right_swipe_gesture">আঙুলিৰ চাপ সোঁ ছুৱাইপ</string>
+    <string name="category_fp_left_swipe_gesture">আঙুলিৰ চাপ বাওঁ ছুৱাইপ</string>
+    <string name="category_fp_long_press_gesture">আঙুলিৰ চাপ দীঘলীয়া হেঁচা</string>
+    <string name="wake_entry">জাগি উঠা</string>
 </resources>
