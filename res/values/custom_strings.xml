@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Config Panel</string>
+    <string name="app_name" translatable="false">@string/advanced_settings</string>
 
     <!-- General -->
     <string name="advanced_settings">OnePlus Settings</string>
@@ -43,7 +43,7 @@
     <string name="haptic_feedback_summary">Vibrate when a gesture gets detected</string>
 
     <!-- Alert slider settings -->
-    <string name="slider_dashboard_summary">Alert Slider</string>
+    <string name="slider_dashboard_summary">Slider control</string>
     <string name="notification_slider_selection_dialog_title">Action</string>
     <string name="notification_slider_top_position">Top position</string>
     <string name="notification_slider_middle_position">Middle position</string>
