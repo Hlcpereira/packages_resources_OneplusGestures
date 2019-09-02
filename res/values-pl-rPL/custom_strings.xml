@@ -46,5 +46,5 @@
     <string name="notification_slider_mode_total_silence">Całkowite wyciszenie</string>
     <string name="notification_slider_mode_priority_only">Tylko priorytetowe</string>
     <string name="notification_slider_mode_vibration">Wibracje</string>
-    <string name="notification_slider_mode_none">Brak</string>
+    <string name="notification_slider_mode_none">Żaden</string>
 </resources>

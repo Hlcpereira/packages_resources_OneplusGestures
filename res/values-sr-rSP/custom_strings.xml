@@ -20,8 +20,31 @@
     <string name="advanced_settings">Онеплус подешавања</string>
     <string name="advanced_settings_summary">Подешавања специфична за Ваш уређај</string>
     <!-- Gestures -->
+    <string name="screen_gestures_summary">Покрети</string>
+    <string name="touchscreen_double_tap_gesture_title">Пробуди уређај</string>
+    <string name="touchscreen_double_tap_gesture_summary">Два пута додирни да пробудиш уређај</string>
+    <string name="touchscreen_camera_gesture_title">Камера</string>
+    <string name="touchscreen_camera_gesture_summary">Нацртај круг да би активирао камеру</string>
+    <string name="touchscreen_music_gesture_title">Музика</string>
+    <string name="touchscreen_flashlight_gesture_title">Лампа</string>
+    <string name="touchscreen_flashlight_gesture_summary">Нацртај \'V\' да покренеш лампу</string>
+    <string name="touchscreen_music_gesture_summary">Користи покрете за контролу репродукције музике \n
+• Два прста вертикално на пусти/пауза\n
+• Нацртај леву стрелицу \"&#60;\" за претходну нумеру\n
+• Нацртај десну стрелицу \"&#62;\" за следећу нумеру</string>
     <!-- Button settings  -->
+    <string name="button_dashboard_summary">Дугмићи</string>
     <string name="button_swap_title">Замени места дугмади</string>
     <string name="button_swap_summary">Замените места дугмади „Преглед“ и „Назад“</string>
+    <string name="haptic_feedback">Вибрација при додиру</string>
+    <string name="haptic_feedback_summary">Вибрирајте при препознавању покрета</string>
     <!-- Alert slider settings -->
+    <string name="notification_slider_selection_dialog_title">Акција</string>
+    <string name="notification_slider_top_position">Највиша позиција</string>
+    <string name="notification_slider_middle_position">Средња позиција</string>
+    <string name="notification_slider_bottom_position">Доња позиција</string>
+    <string name="notification_slider_mode_total_silence">Потпуна тишина</string>
+    <string name="notification_slider_mode_priority_only">Само приоритет</string>
+    <string name="notification_slider_mode_vibration">Вибрација</string>
+    <string name="notification_slider_mode_none">Ништа</string>
 </resources>

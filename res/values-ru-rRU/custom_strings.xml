@@ -20,8 +20,31 @@
     <string name="advanced_settings">Настройки OnePlus</string>
     <string name="advanced_settings_summary">Пользовательские настройки для вашего устройства</string>
     <!-- Gestures -->
+    <string name="screen_gestures_summary">Жесты</string>
+    <string name="touchscreen_double_tap_gesture_title">Выход из режима сна</string>
+    <string name="touchscreen_double_tap_gesture_summary">Включение экрана двойным нажатием</string>
+    <string name="touchscreen_camera_gesture_title">Камера</string>
+    <string name="touchscreen_camera_gesture_summary">Нарисуйте круг для запуска камеры</string>
+    <string name="touchscreen_music_gesture_title">Музыка</string>
+    <string name="touchscreen_flashlight_gesture_title">Фонарик</string>
+    <string name="touchscreen_flashlight_gesture_summary">Нарисуйте букву \'V\', чтобы включить или выключить фонарик</string>
+    <string name="touchscreen_music_gesture_summary">Используйте жесты для управления воспроизведением музыки \n
+    • Нарисуйте двумя пальцами вертикально \"||\" для воспроизведения/паузы\n
+    • Нарисуйте стрелку влево \"&#60;\" для предыдущей дорожки\n
+    • Нарисуйте стрелку вправо \"&#62;\" для следующей дорожки</string>
     <!-- Button settings  -->
+    <string name="button_dashboard_summary">Кнопки</string>
     <string name="button_swap_title">Поменять кнопки местами</string>
     <string name="button_swap_summary">Поменять местами кнопки «Недавние» и «Назад»</string>
+    <string name="haptic_feedback">Виброотклик</string>
+    <string name="haptic_feedback_summary">Вибрация при использовании жестов</string>
     <!-- Alert slider settings -->
+    <string name="notification_slider_selection_dialog_title">Действие</string>
+    <string name="notification_slider_top_position">Верхнее положение</string>
+    <string name="notification_slider_middle_position">Среднее положение</string>
+    <string name="notification_slider_bottom_position">Нижнее положение</string>
+    <string name="notification_slider_mode_total_silence">Полная тишина</string>
+    <string name="notification_slider_mode_priority_only">Только важные</string>
+    <string name="notification_slider_mode_vibration">Вибрация</string>
+    <string name="notification_slider_mode_none">Отключено</string>
 </resources>

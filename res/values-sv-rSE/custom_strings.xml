@@ -20,6 +20,9 @@
     <string name="advanced_settings">OnePlus inställingar</string>
     <string name="advanced_settings_summary">Speciella Inställningar för din mobil</string>
     <!-- Gestures -->
+    <string name="touchscreen_camera_gesture_title">Kamera</string>
+    <string name="touchscreen_music_gesture_title">Musik</string>
+    <string name="touchscreen_flashlight_gesture_title">Ficklampa</string>
     <!-- Button settings  -->
     <string name="button_swap_title">Växla knappar</string>
     <string name="button_swap_summary">Byt ordning på senaste och tillbaka knapparna</string>

@@ -20,8 +20,31 @@
     <string name="advanced_settings">OnePlus nastavitve</string>
     <string name="advanced_settings_summary">Nastavitve po meri za vašo napravo</string>
     <!-- Gestures -->
+    <string name="screen_gestures_summary">Poteze</string>
+    <string name="touchscreen_double_tap_gesture_title">Zbudi napravo</string>
+    <string name="touchscreen_double_tap_gesture_summary">Dvakrat tapnite, da zbudite napravo</string>
+    <string name="touchscreen_camera_gesture_title">Fotoaparat</string>
+    <string name="touchscreen_camera_gesture_summary">Narišite krog za zagon fotoaparata</string>
+    <string name="touchscreen_music_gesture_title">Glasba</string>
+    <string name="touchscreen_flashlight_gesture_title">Svetilka</string>
+    <string name="touchscreen_flashlight_gesture_summary">Narišite »V«, da preklopite svetilko</string>
+    <string name="touchscreen_music_gesture_summary">Uporabite poteze za nadzor predvajanja glasbe \n
+    • Dva prsta navpično »||« za predvajanje/premor\n
+    • Narišite puščico v levo »&#60;« za prejšnjo skladbo\n
+    • Narišite puščico v desno »&#62;« za naslednjo skladbo</string>
     <!-- Button settings  -->
+    <string name="button_dashboard_summary">Gumbi</string>
     <string name="button_swap_title">Zamenjava gumbov</string>
     <string name="button_swap_summary">Zamenjaj vrstni red gumbov nedavno in nazaj</string>
+    <string name="haptic_feedback">Haptično zaznavanje</string>
+    <string name="haptic_feedback_summary">Vibriraj ob zaznavi poteze</string>
     <!-- Alert slider settings -->
+    <string name="notification_slider_selection_dialog_title">Dejanje</string>
+    <string name="notification_slider_top_position">Zgornji položaj</string>
+    <string name="notification_slider_middle_position">Srednji položaj</string>
+    <string name="notification_slider_bottom_position">Spodnji položaj</string>
+    <string name="notification_slider_mode_total_silence">Popolna tišina</string>
+    <string name="notification_slider_mode_priority_only">Samo prednostno</string>
+    <string name="notification_slider_mode_vibration">Vibriranje</string>
+    <string name="notification_slider_mode_none">Brez</string>
 </resources>

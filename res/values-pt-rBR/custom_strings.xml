@@ -39,7 +39,6 @@
     <string name="haptic_feedback">Retorno tátil</string>
     <string name="haptic_feedback_summary">Vibrar quando um gesto for detectado</string>
     <!-- Alert slider settings -->
-    <string name="slider_dashboard_summary">Controle deslizante</string>
     <string name="notification_slider_selection_dialog_title">Ação</string>
     <string name="notification_slider_top_position">Posição superior</string>
     <string name="notification_slider_middle_position">Posição central</string>

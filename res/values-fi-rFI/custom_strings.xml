@@ -20,8 +20,15 @@
     <string name="advanced_settings">OnePlus asetukset</string>
     <string name="advanced_settings_summary">Muokatut asetukset laitteellesi</string>
     <!-- Gestures -->
+    <string name="screen_gestures_summary">Eleet</string>
+    <string name="touchscreen_double_tap_gesture_title">Herätä laite</string>
+    <string name="touchscreen_camera_gesture_title">Kamera</string>
+    <string name="touchscreen_music_gesture_title">Musiikki</string>
+    <string name="touchscreen_flashlight_gesture_title">Taskulamppu</string>
     <!-- Button settings  -->
+    <string name="button_dashboard_summary">Painikkeet</string>
     <string name="button_swap_title">Vaihda näppäimien paikkaa</string>
     <string name="button_swap_summary">Vaihda Takaisin- ja Viimeisimmät-näppäinten paikkaa</string>
+    <string name="haptic_feedback">Haptinen palaute</string>
     <!-- Alert slider settings -->
 </resources>

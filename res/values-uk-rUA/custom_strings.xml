@@ -20,8 +20,31 @@
     <string name="advanced_settings">Налаштування OnePlus</string>
     <string name="advanced_settings_summary">Додаткові налаштування пристрою</string>
     <!-- Gestures -->
+    <string name="screen_gestures_summary">Жести</string>
+    <string name="touchscreen_double_tap_gesture_title">Розбудити пристрій</string>
+    <string name="touchscreen_double_tap_gesture_summary">Натисніть двічі, щоб розбудити пристрій</string>
+    <string name="touchscreen_camera_gesture_title">Камера</string>
+    <string name="touchscreen_camera_gesture_summary">Намалюйте коло, щоб активувати камеру</string>
+    <string name="touchscreen_music_gesture_title">Музика</string>
+    <string name="touchscreen_flashlight_gesture_title">Ліхтарик</string>
+    <string name="touchscreen_flashlight_gesture_summary">Намалюйте \'V\' аби перемкнути ліхтарик</string>
+    <string name="touchscreen_music_gesture_summary">Використовуйте жести для керування відтворенням музики \n
+    • Проведіть двома пальцями вертикально \"||\", щоб відтворити або призупинити пісню\n
+    • Намалюйте стрілку ліворуч\"&#60;\", щоб повернутися до минулої пісні\n
+    • Намалюйте стрілку праворуч \"&#62;\", щоб перейти до наступної пісні</string>
     <!-- Button settings  -->
+    <string name="button_dashboard_summary">Кнопки</string>
     <string name="button_swap_title">Поміняти кнопки місцями</string>
     <string name="button_swap_summary">Поміняти місцями кнопки \"Нещодавні\" та \"Повернутися\"</string>
+    <string name="haptic_feedback">Вібровідгук</string>
+    <string name="haptic_feedback_summary">Вібрувати при виявленні жесту</string>
     <!-- Alert slider settings -->
+    <string name="notification_slider_selection_dialog_title">Дія</string>
+    <string name="notification_slider_top_position">Верхня позиція</string>
+    <string name="notification_slider_middle_position">Середня позиція</string>
+    <string name="notification_slider_bottom_position">Нижня позиція</string>
+    <string name="notification_slider_mode_total_silence">Повна тиша</string>
+    <string name="notification_slider_mode_priority_only">Лише приоритетні</string>
+    <string name="notification_slider_mode_vibration">Вібрація</string>
+    <string name="notification_slider_mode_none">Жодного</string>
 </resources>

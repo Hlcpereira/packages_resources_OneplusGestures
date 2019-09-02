@@ -20,8 +20,31 @@
     <string name="advanced_settings">OnePlus\'i seaded</string>
     <string name="advanced_settings_summary">Kohandatud seaded sinu seadmele</string>
     <!-- Gestures -->
+    <string name="screen_gestures_summary">Viiped</string>
+    <string name="touchscreen_double_tap_gesture_title">Ärata seade</string>
+    <string name="touchscreen_double_tap_gesture_summary">Topeltpuuduta, et äratada seade</string>
+    <string name="touchscreen_camera_gesture_title">Kaamera</string>
+    <string name="touchscreen_camera_gesture_summary">Tõmmake ring et aktiveerida kaamera</string>
+    <string name="touchscreen_music_gesture_title">Muusika</string>
+    <string name="touchscreen_flashlight_gesture_title">Taskulamp</string>
+    <string name="touchscreen_flashlight_gesture_summary">Joonista \'V\' et lülitada taskulampi</string>
+    <string name="touchscreen_music_gesture_summary">Kasuta žeste, et kontrollida muusikaesitust \n
+    • Kahe sõrmega vertikaalselt \"||\" , et esitada/peatada\n
+    • Joonista nool vasakule \"&#60;\" eelmise loo jaoks\n
+    • Joonista nool paremale \"&#62;\" järgmise loo jaoks</string>
     <!-- Button settings  -->
+    <string name="button_dashboard_summary">Nupud</string>
     <string name="button_swap_title">Vaheta nupud</string>
     <string name="button_swap_summary">Vaheta omavahel hiljutised ja tagasi nupud</string>
+    <string name="haptic_feedback">Kompamistagasiside</string>
+    <string name="haptic_feedback_summary">Vibreeri žesti tuvastamisel</string>
     <!-- Alert slider settings -->
+    <string name="notification_slider_selection_dialog_title">Tegevus</string>
+    <string name="notification_slider_top_position">Ülemine positsioon</string>
+    <string name="notification_slider_middle_position">Keskmine positsioon</string>
+    <string name="notification_slider_bottom_position">Alumine positsioon</string>
+    <string name="notification_slider_mode_total_silence">Täielik vaikus</string>
+    <string name="notification_slider_mode_priority_only">Ainult prioriteetsed</string>
+    <string name="notification_slider_mode_vibration">Värin</string>
+    <string name="notification_slider_mode_none">Puudub</string>
 </resources>

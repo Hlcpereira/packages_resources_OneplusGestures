@@ -20,6 +20,10 @@
     <string name="advanced_settings">OnePlus Einstellungen</string>
     <string name="advanced_settings_summary">Persönliche Einstellungen für dein Gerät</string>
     <!-- Gestures -->
+    <string name="screen_gestures_summary">Gesten</string>
+    <string name="touchscreen_double_tap_gesture_title">Gerät aufwecken</string>
+    <string name="touchscreen_double_tap_gesture_summary">Doppelt Tippen um das Gerät zu wecken</string>
+    <string name="touchscreen_camera_gesture_title">Kamera</string>
     <!-- Button settings  -->
     <string name="button_swap_title">Tasten tauschen</string>
     <string name="button_swap_summary">Anordnung der Tasten für Anwendungsverlauf und Zurück tauschen</string>
